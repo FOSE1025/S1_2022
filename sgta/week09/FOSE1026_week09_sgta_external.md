@@ -34,7 +34,7 @@ Complete the following tasks.
    2. Click on the file to open it in Excel Online.
    3. Convert the file to Excel format.
 2. Create the columns `Day`, `Month`, `Year` and use EXCEL formulas (`DAY`, `MONTH`, `YEAR`) to populate the columns.
-4. Create the column `US format` and use the EXCEL formula (`TEXT`) to generate dates in US format using the `Day`, `Month`, and `Year` columns. In the US format, the month is written before the day. For example, if the date is `23/11/2014`, in US format it will be `11/23/2014`.
+4. Create the column `US format` and use the EXCEL formula (`TEXT`) to generate dates in US format using the `date` column. In the US format, the month is written before the day. For example, if the date is `23/11/2014`, in US format it will be `11/23/2014`.
 
 You can find documentation about the TEXT function here:
 * https://support.office.com/en-us/article/combine-text-with-a-date-or-time-cef6a66c-8176-470c-ba85-4b030405dfbf
