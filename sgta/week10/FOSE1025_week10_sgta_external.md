@@ -1,5 +1,11 @@
 # Week 10 SGTA (External Offering)
 
+# Student feedback survey (15 minutes)
+
+Please spend some time to complete the student feedback survey of FOSE1025. Your feedback is very important for us, it will help us improve the unit.
+
+Read [these slides](https://ishare.mq.edu.au/prod/file/4fddda41-ac3c-4ba9-8cce-bf72d6db16f0/1/Student_SurveyReference_S2v2.pdf) for more information.
+
 # Excel
 
 ## Activity 1 - Weather data
