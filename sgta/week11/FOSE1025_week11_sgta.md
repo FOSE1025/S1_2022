@@ -42,6 +42,8 @@ The following links can help you identify this information.
 
 ## Activity 3 - Hypothetical ethics case study (15 minutes + 10 minutes discussion)
 
+You will be assigned to a group (or a breakout room if the class is online). As a group, perform the following task:
+
 Below is a hypothetical case. Read the case and answer the questions below. In your answers, do not just say "yes" or "no". Also, justify the answer.
 
 > You need to determine the attitudes of Australians with respect to the use of online learning tools. Since you do not have much time, you decide to gather a collection of tweet posts made available by Twitter and use it for your research. This collection is public, anybody can use it, but it is a small portion of all tweets posted by people worldwide. Twitter allows people to store the tweets collected for personal use but forbids them to distribute the tweets to other people.
@@ -50,6 +52,10 @@ Below is a hypothetical case. Read the case and answer the questions below. In y
 2. If we stored the tweets in the cloud, would there be any issues related to privacy or security?
 3. This scenario has issues regarding fairness. Discuss the nature of these issues.
 4. Are there any issues related to disclosure?
+
+Share the workbook with the other members of your group so that they can submit the participation activity.
+
+Nominate one member of the group who will present the solution to the rest of the class.
 
 ## Participation task 2
 
